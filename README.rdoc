@@ -1,0 +1,7 @@
+= SimplePaginate
+
+This plugin is a lightweight implementation of pagination. Additionally, it provides a responder and a helper for simple AJAX pagination.
+
+SimplePaginate uses lazy loading, which fits fragment caching very well.
+
+Copyright (c) 2011 José Ignacio Fernández, released under the MIT license
